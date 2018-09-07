@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1534754456is221mhkzl" name="Mill">
+   <node crypt="" id="1534754568g25om4xpz4" name="Cleaning A">
+    <node crypt="" id="15347546087i0vh7nwey" name="1st Cleaning"/>
+    <node crypt="" id="15347546223rxnhai111" name="1st Dampening"/>
+    <node crypt="" id="153475462833amclfw77" name="2nd Dampening"/>
+    <node crypt="" id="1534754634t3tsxfjky3" name="2nd Cleaning"/>
+   </node>
+   <node crypt="" id="15347545836cjqbweh6b" name="Cleaning B">
+    <node crypt="" id="1534920693rjcl3zc5b0" name="BE304">
+     <recordtable>
+      <record id="1534920820bf2mwdml0b" name="BE304" author="" url="" tags="part changed" ctime="20180822095340" dir="1534920820nfadr3i1fc" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1534756770s9tg0u7kot" name="Cleaning C">
+    <node crypt="" id="1535177012j22tr23bmz" name="6/F screw conveyors">
+     <recordtable>
+      <record id="1535177165yji1fozuxk" name="screw conveyor SC402 (M4029)" author="" url="" tags="teflon bush change, screw conveyor, pending," ctime="20180825090605" dir="1535177165q9y20lrw71" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1534756777e32h2q8578" name="Cleaning D"/>
+   <node crypt="" id="15349121139mxtwxdmu4" name="Screening">
+    <node crypt="" id="1534912151gsa44z389p" name="Screening line A">
+     <node crypt="" id="153491215115psd5b0mj" name="BT Airlock">
+      <recordtable>
+       <record id="1534757595uxtg2c79oq" name="mill A screening line BT airlock changed" author="18.08.2018" url="" tags="machine change" ctime="20180822072911" dir="15347575956tvt4g1esz" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1534912159c5cj1jzs64" name="Screening line B">
+     <node crypt="" id="15349121762pwz9o1fud" name="BT Airlock">
+      <recordtable>
+       <record id="1534912176m4478o4ctz" name="mill B screening line BT airlock changed" author="" url="" tags="machine change" ctime="20180822072936" dir="1534912176h0wu692drn" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="15349179382e0516owpt" name="Hammer Mills">
+     <recordtable>
+      <record id="1535344971okrnrgr3s0" name="Perforated sheet change" author="25.08.2018" url="" tags="perforated sheet changed" ctime="20180827074251" dir="15353449715go76a51qs" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1534918035146wotvc0k" name="Aspiration fan - hammer mills"/>
+   </node>
+   <node crypt="" id="1534756800ul2y2nw67p" name="Milling A">
+    <node crypt="" id="1535429604j0el0f1z23" name="Roller Body">
+     <node crypt="" id="1535429616wvdbsqziaf" name="B3">
+      <recordtable>
+       <record id="1534921274uawta1ehq1" name="part chjanged" author="" url="" tags="part changed" ctime="20180828071336" dir="15349212745eqmxmw6z8" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1535430801i47zofca5w" name="C9">
+      <recordtable>
+       <record id="1535430894d3spufk7h0" name="part changed" author="27.08.2018" url="" tags="part changed" ctime="20180828073454" dir="15354308949qwacrje5q" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1535429298krlgovsc6p" name="Bran Finisher">
+     <node crypt="" id="1535429330gb8d15m5nh" name="BR1">
+      <recordtable>
+       <record id="15354293711uozt0g9tp" name="Bran finisher BR1" author="27.08.2018" url="" tags="BR1" ctime="20180828070931" dir="15354293710qgzyoe3fd" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
+   <node crypt="" id="15347568058fyv2rsx28" name="Milling B">
+    <recordtable>
+     <record id="1535718333g1a2myyoyd" name="part changed" author="31.08.2018" url="" tags="part changed" ctime="20180831152533" dir="1535718333h83my0gaw2" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15347568127vukweisun" name="Milling C">
+    <node crypt="" id="1535176205yc0tqw3b3a" name="roller body B4C(i)">
+     <recordtable>
+      <record id="1535176179wx4ouf39sv" name="roll change" author="24.08.2018" url="" tags="roll change" ctime="20180825085005" dir="1535176179odvxt2g5cj" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="15357199774wbeh8fzal" name="Cyclone Airlock (M4507)">
+     <recordtable>
+      <record id="153572002823hpv6s933" name="part changed" author="30.08.2018" url="" tags="part changed" ctime="20180831155348" dir="15357200287sknmgt44i" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1535721409xrj1o4u6z9" name="Cyclone Airlock (M4512)">
+     <recordtable>
+      <record id="1535721459hxhl4lpr76" name="part changed" author="" url="" tags="part changed" ctime="20180831161739" dir="1535721459bto0i6b7zg" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1534756817yl1o0dmizj" name="Milling D">
+    <node crypt="" id="1534916924tnn3flqba7" name="roller body C7">
+     <recordtable>
+      <record id="1534917355yynz8jocvu" name="parts changed" author="20.08.2018, 22.08.2018" url="" tags="part change" ctime="20180822085555" dir="1534917355bd9ea2vi9q" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1534756750ygbl8ua9px" name="Packing A">
+    <node crypt="" id="1534921503i7afn9asb8" name="Mini Sifter">
+     <recordtable>
+      <record id="1534921578tnl6bni51k" name="cross joint changed" author="" url="" tags="part changed" ctime="20180822100618" dir="153492157861nwdp53td" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1534756901pz6csvmoo4" name="Flour Transfer Line">
+     <node crypt="" id="1534756950yrqqrgn9mc" name="BT Airlock">
+      <recordtable>
+       <record id="15347571588091h7rhxf" name="mill flour transfer line BT airlock changed" author="" url="" tags="machine change, airlock, BT" ctime="20180820122558" dir="1534757158evze49233s" file="text.html"/>
+       <record id="15347573939sr673ofb6" name="Airlocks makes sound" author="" url="" tags="problem, airlock" ctime="20180820122953" dir="1534757393m0olqe74q6" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1535602369vy87lt7dca" name="Dust Collector M2693">
+     <recordtable>
+      <record id="1535602924bep3xvf7rn" name="part changed" author="" url="" tags="part changed" ctime="20180830072204" dir="1535602924h7pfh87g78" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="15347568322rvecrd651" name="Packing B">
+    <node crypt="" id="15349325910p4b6h5ord" name="Semolina Scale MWBL-EE-24">
+     <recordtable>
+      <record id="1534932722nx7a4lb0xn" name="Equipment Detail" author="p7f" url="" tags="equipment detail" ctime="20180822131202" dir="1534932722uxvjc5tig8" file="text.html"/>
+      <record id="153493255519j3idayxr" name="part changed" author="22.08.2018" url="" tags="part changed" ctime="20180822131002" dir="1534932555cggn2ciz76" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1534910601lmg1t2kvry" name="Packing C">
+    <recordtable>
+     <record id="1534910735uv3nzucfzp" name="Cyclone" author="" url="" tags="welding repair, p7f" ctime="20180822070535" dir="1534910735zs0xpm1i1i" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1534754490fkx30ejf11" name="Silo">
+   <node crypt="" id="1534913283vtuvyhzejf" name="CC103">
+    <recordtable>
+     <record id="15349133214mhuipu2ye" name="oil change" author="23.08.2018" url="" tags="oil changed" ctime="20180822074841" dir="15349133219n3t4stqom" file="text.html"/>
+     <record id="1535552026i2v82spfm2" name="gear box repaired " author="28.08.2018" url="" tags="part repaired" ctime="20180829171346" dir="1535552026konb995bij" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15349230979uwbbk2g7b" name="Magnets">
+    <recordtable>
+     <record id="1534923371nyd1dgjuf1" name="d400 elbow and pipe changed" author="" url="" tags="part changed" ctime="20180822103611" dir="153492337181og3rg1io" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1535177374vpkuy20fxa" name="CC119">
+    <recordtable>
+     <record id="1535177450f68tj75eq7" name="power transmission chain changed" author="25.08.2018" url="" tags="chain changed" ctime="20180825091050" dir="1535177450xpgieolzp0" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1535436617zpdmfiqw0n" name="Vigan">
+    <recordtable>
+     <record id="153543714817z1od414f" name="Vigan spare received 08.2018" author="" url="" tags="spare received" ctime="20180828091908" dir="1535437148o3z78bw5ev" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1535436641mp85nitybn" name="Vigan #1">
+     <recordtable>
+      <record id="1535432187lqg2mnqw8j" name="part changed" author="25.08.2018" url="" tags="part changed" ctime="20180828091041" dir="1535432187w6iu27b7if" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="15354366516afpupe99d" name="Vigan #2">
+     <recordtable>
+      <record id="1535431057hs87x2csq8" name="part changed" author="26.08.2018" url="" tags="part changed" ctime="20180828091051" dir="15354310572xu96ecurv" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="" id="1534912784ald98m5397" name="Spare Order">
+   <recordtable>
+    <record id="1534912915rg5mc7fz22" name="for cleaning side screening BT airlocks" author="" url="" tags="spare order" ctime="20180822074155" dir="1534912915aug1y27iss" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1534759707dzi5gie36a" name="The Team">
+   <node crypt="" id="1534759783uz7o1aqpmc" name="Iyabul - 2560"/>
+   <node crypt="" id="1534759847azu8vgvmfz" name="Pushpa Sanath - 2654"/>
+   <node crypt="" id="1534759873r5g5tk19m9" name="Jai Kishore - 3214"/>
+   <node crypt="" id="1534759883585oe2qhhv" name="Shahin - 3330">
+    <recordtable>
+     <record id="1535345014kg6bb3i7on" name="Absense Normal Days" author="" url="" tags="" ctime="20180827074334" dir="15353450140bn66x11eb" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1534759898gfhtch9ugz" name="WAD sydney - 3406"/>
+   <node crypt="" id="1534759912bddccmsxhy" name="Mohd. Naushad - 3523"/>
+   <node crypt="" id="1534759926t5vfetpm6i" name="Mohd. Arif - 3533">
+    <recordtable>
+     <record id="1535256969pac276pp21" name="Ignorance" author="" url="" tags="Ignorance" ctime="20180826071609" dir="15352569693mnz6hraqg" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15347599443ma0qwmx2t" name="Ramesh Kr. Tamang - 3945"/>
+   <node crypt="" id="1534759960rx4l7xuy4c" name="Janak Pradeep Kr. - 4144"/>
+   <node crypt="" id="15347599700q4s2hnoai" name="Mohd. Azad - 4196">
+    <recordtable>
+     <record id="1535345399yf51x15qw7" name="Absense Normal Days" author="" url="" tags="" ctime="20180827074959" dir="1535345399obk854503z" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1534759982dfy12340tk" name="HP Perera - 4280"/>
+   <node crypt="" id="15347600044njdj1u6mw" name="Mohseen Shaikh - 4322"/>
+   <node crypt="" id="1534760018zf2ida8n71" name="Mahesh Vendepalli - 4484"/>
+   <node crypt="" id="1534760031u7ni5lyudl" name="Bhim Kr. - 4538"/>
+   <node crypt="" id="1534760046tljdaqyzmp" name="Durga Bahadur Thapa - 4540"/>
+   <node crypt="" id="153476006119khevyqgn" name="Masihuzzaman - 4542"/>
+   <node crypt="" id="1534760075thtslrxth3" name="Mohd. Tarique - 4611">
+    <recordtable>
+     <record id="153476075572ceg6ebni" name="Late Presence" author="" url="" tags="" ctime="20180820132555" dir="15347607559zyhs0w0gi" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1534760091rce1ok9ymc" name="Budha Lal Tamang - 4513"/>
+   <node crypt="" id="1534760122sec4rlioo0" name="Puranlal Tharu - 4809"/>
+   <node crypt="" id="1534760137cr2oz9bu5p" name="Shaikh Rizwan - 5090"/>
+   <node crypt="" id="1534760155ed67lxt23u" name="Arif Khan Pathan - 5142"/>
+  </node>
+  <node crypt="" id="1534913610m2d9g5cta0" name="Stitching Machines">
+   <node crypt="" id="1534913626j34y6glb9r" name="SM-13">
+    <recordtable>
+     <record id="15349136739h4erq6qiy" name="air cylinder changed" author="" url="" tags="part changed" ctime="20180822075433" dir="1534913673zquu9k6l8g" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1534920935e98lktgai9" name="Compressor">
+   <node crypt="" id="1534920961srgrc9pssv" name="C1 - GA30">
+    <recordtable>
+     <record id="15349210421jkymilzu1" name="part changed" author="" url="" tags="part changed" ctime="20180822095722" dir="1534921042x9tpzqo8ef" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1534920976bjsajdit5w" name="D1 - GA30">
+    <recordtable>
+     <record id="1534921123l1j5fu9ft5" name="part changed" author="" url="" tags="part changed" ctime="20180822095843" dir="1534921123i983rbykuf" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1535431216ma2r2wb0b4" name="Silo GA30">
+    <recordtable>
+     <record id="15354312694suhmwkrue" name="oil top up" author="26.08.2018" url="" tags="oil top up" ctime="20180828074109" dir="1535431269qzekmt1853" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15357108540eh4lv4ke5" name="ELGEE Compressor">
+    <recordtable>
+     <record id="1535710901pqr5xdi9e7" name="part changed" author="" url="" tags="part changed" ctime="20180831132141" dir="1535710901xon8j7xlr5" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15358643824spz7zo8l6" name="C2">
+    <recordtable>
+     <record id="153586748883jpxm9ym0" name="parts changed" author="" url="" tags="full service" ctime="20180902085128" dir="15358674883x5fv510mc" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1536120551npizwwydlo" name="B1">
+    <recordtable>
+     <record id="1536120560ncj7xgagkw" name="parts changed" author="" url="" tags="full service" ctime="20180905070920" dir="15361205602lpxu72ka0" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="15349336212zjn7e19zp" name="Rubber Sleeve change">
+   <recordtable>
+    <record id="15349180076z8rtp9q1g" name="rubber sleeve change" author="" url="" tags="rubber sleeve" ctime="20180822132717" dir="1534918007xtkp5h66bu" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1535002823fiys7xn6ye" name="ZAD Contacts">
+   <recordtable>
+    <record id="1535002969frkboxdna9" name="ZAD Contacts" author="" url="" tags="zad contacts" ctime="20180823084249" dir="1535002969yvddwmj5up" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1535176242tq8yjiikro" name="Roll Change">
+   <recordtable>
+    <record id="15351763569md5yfevkk" name="mill C roll change list" author="" url="" tags="roll change, mill C roll change list" ctime="20180825085236" dir="1535176356yn7m7yyphb" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1535513867wylqmcblay" name="Machine Breakdown">
+   <recordtable>
+    <record id="15355143184hnvemfih5" name="Packing Line A Breakdown" author="" url="" tags="Breakdown" ctime="20180829064518" dir="1535514318vhdkt9efya" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1535552236xv1mjd6sks" name="ERP Employee Code">
+   <recordtable>
+    <record id="15355523742d27b8rmma" name="ERP Employee Code" author="" url="" tags="ERP Employee Code" ctime="20180829171934" dir="1535552374aufccgmtok" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="15350889591nzbm81k61" name="Worthy Notes">
+   <recordtable>
+    <record id="15350890961sdvzqiumu" name="MPSJ, MPSH, MPSK" author="" url="" tags="MPSJ, MPSH, MPSK" ctime="20180824083816" dir="1535089096d433cutjvm" file="text.html"/>
+    <record id="15350941972ar4yszn4v" name="Westfalia oil" author="" url="" tags="westfalia oil" ctime="20180824100317" dir="1535094197dm5kdhhzew" file="text.html"/>
+    <record id="1535095366avzhat08eq" name="Tenses" author="" url="" tags="tenses" ctime="20180824102246" dir="1535095366wtmtk6krxv" file="text.html"/>
+    <record id="153517783104sf34a4gb" name="chain pitch" author="" url="" tags="chain pitch" ctime="20180825091711" dir="15351778313baypgg1iz" file="text.html"/>
+    <record id="1535178112aputcq8705" name="Chain-Pitch-to-Feet-Conversions" author="" url="" tags="Chain-Pitch-to-Feet-Conversions" ctime="20180825092152" dir="153517811259s918pqot" file="text.html">
+     <files>
+      <file id="1535178160ufin7fzfk2" fileName="Chain-Pitch-to-Feet-Conversions.pdf" type="file"/>
+     </files>
+    </record>
+    <record id="15356918622j9s0x2sum" name="chain sag, oil for chain lubrication" author="" url="" tags="chain sag, oil for chain lubrication" ctime="20180831080422" dir="15356918625wwt69vjfu" file="text.html"/>
+    <record id="15357965155nj6wgspqh" name="Belt drive notes" author="" url="" tags="belt drive notes" ctime="20180901130835" dir="1535796515rm3gapzf8d" file="text.html"/>
+    <record id="1536042179webgvrr3xn" name="filters for blower" author="" url="" tags="filters for blower" ctime="20180904092259" dir="1536042179rk2jnq0gy7" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="15361395251a8q9ogv60" name="Italpack">
+   <recordtable>
+    <record id="15361402886kjhjfq8pt" name="Suction cup and End Plug changing" author="" url="" tags="Suction cup and End Plug changing" ctime="20180905123808" dir="1536140288s5lkm0mh38" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
